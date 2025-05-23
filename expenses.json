@@ -1,0 +1,14 @@
+{
+    "2025-05-10": [
+        {
+            "amount": 50.0,
+            "category": "transport",
+            "description": "Bus Travels"
+        },
+        {
+            "amount": 300.0,
+            "category": "food",
+            "description": "KFC"
+        }
+    ]
+}
